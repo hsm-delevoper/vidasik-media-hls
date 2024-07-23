@@ -1,9 +1,13 @@
 #EXTM3U
 
-#EXTINF: 0, tvg-logo=https://static.wikia.nocookie.net/lub/images/8/8f/Prozrachnii_gdtv.png/revision/latest/scale-to-width-down/1000?cb=20240621122103&path-prefix=ru, GDTV Remaked
+#EXTINF: 0, GDTV Remaked
 #EXTGRP:Развлекательные
 https://ms1y7ih048b.a.trbcdn.net/livemaster/mkd3t_fxj40qy65t.smil/playlist.m3u8
 
 #EXTINF: 0, TW3N
 #EXTGRP:Развлекательные
 http://81.94.148.135:8080/memfs/cafc917f-240a-4ff3-a24a-466437c3e24e.m3u8
+
+#EXTINF: 0, GDFM
+#EXTGRP:Музыкальные
+http://81.94.148.135:8080/memfs/1027ca30-4c2b-4645-93bd-2d69b5dec1c6.m3u8
