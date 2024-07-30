@@ -1,0 +1,5 @@
+#EXTM3U
+
+#EXTINF: 0, GDTV
+#EXTGRP:Развлекательные
+http://78.159.240.74:8080/memfs/38f4c4ec-7f2b-48f8-ba11-8a8be0a3b9ad.m3u8
