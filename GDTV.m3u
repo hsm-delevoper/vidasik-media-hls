@@ -1,5 +1,0 @@
-#EXTM3U
-
-#EXTINF: -1 tvg-logo=https://static.wikia.nocookie.net/lub/images/8/8f/Prozrachnii_gdtv.png/revision/latest/scale-to-width-down/1000?cb=20240621122103&path-prefix=ru, GDTV
-#EXTGRP:Развлекательные
-http://148.253.61.153:8080/memfs/5a852861-c41b-4edd-bdc6-658d3ccb52ef.m3u8
